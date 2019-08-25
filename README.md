@@ -1,2 +1,2 @@
-# train-booking-app
-A Train Seat Booking Application. Grade: A+
+# Train Seat Booking Application (Java)
+Grade: A+
