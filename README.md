@@ -1,2 +1,2 @@
 # Train Seat Booking Application (Java)
-Grade: A+
+Programming 2 (Semester 2, 2017). Grade: A+
